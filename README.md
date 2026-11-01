@@ -1,4 +1,4 @@
-# Hi there, I'm Toprak Ozan Güneysel 👋
+# Hi, I'm Toprak Ozan Güneysel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/toprak)
