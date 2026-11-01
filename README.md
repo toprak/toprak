@@ -51,7 +51,3 @@ Computer Science student & passionate Software Developer focused on building mod
   End-to-end Machine Learning pipeline utilizing **XGBoost** and **SMOTE** for patient 30-day readmission risk classification, served via an interactive **Streamlit** clinical interface.
 
 ---
-
-### 📊 GitHub Stats
-![Toprak's GitHub stats](https://github-readme-stats.vercel.app/api?username=toprak&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toprak&layout=compact&theme=radical)
